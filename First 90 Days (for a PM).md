@@ -24,7 +24,7 @@ The goal here is the reset from the last role, gather learnings from that experi
 1. Begin learning about the new org
    1. Develop First impressions & initial hypotheses 
 
-## Learning Tour
+## Month 1 - Learning Tour
 The Goal here is to learn as much as possible, in the shortest period of time. I want to drink from the firehose and get up to speed as soon as possible. At the same time, I want to enumerate A-list priorities for the business. I can also begin to identify and build my network and resources within the company. 
 
 ### Answers I need
@@ -75,7 +75,7 @@ The Goal here is to learn as much as possible, in the shortest period of time. I
    1. Consumer Research
 1. Get an Org Chart
 
-### Meet with boss early on
+### Day 1 - Meet w/ Baus
 ID the following: 
    1. Who I need to meet with next - Key stakeholders and peers
       1. Engineering
@@ -100,9 +100,16 @@ Adopt a structured learning approach to avoid being influenced by early conversa
 1. If you were in my shoes, what would you focus on?
 
 In the conversation, focus on -
+1. How open is the individual volunteer information, how open are they about their opinions on the org? 
+1. What topics illicit reactions? What causes them to glaze over? 
+1. How does the individual react to 1:1 meetings? 
 1. Divergent opinions from other interviews
 1. How often an issue area pops up? (pol, culture, talent, etc.) 
 1. Is there strategic alignment from the top-down? If there is a break, where is it happening? 
+1. 
 
+### Figure out how to get shit done
+1. Diagram information flow - Data sources, decision making, marching orders
+1. 
 
 
