@@ -18,11 +18,16 @@ This is my running reading list for product, management, and personal growth. Ha
 1. https://svpg.com/articles/
 1. https://www.intercom.com/blog/product-and-design/
 1. https://firstround.com/review/
+1. https://www.kennorton.com/
+1. https://www.mironov.com/
+
 ## On Marketing
 ## On UI/UX
 1. https://www.nngroup.com/
 ## On Tech
 1. https://stratechery.com/
+1. https://hitenism.com/
+
 ## On Personal Growth
 1. https://fs.blog/blog/
 
@@ -54,6 +59,9 @@ This is my running reading list for product, management, and personal growth. Ha
 1. [Establishing Product Principles](https://www.intercom.com/blog/podcasts/intercom-on-product-ep04/) 
 1. [Product as a Founder](https://firstround.com/review/after-15-years-as-a-product-leader-ceo-and-now-vc-heres-the-advice-i-always-share-with-future-founders/) 
 
+## On Agile/SCRUM/Lean
+1. [Agile Manifesto](https://agilemanifesto.org/principles.html)
+
 # Books
 ## On Management
 1. [High Output Management](https://smile.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884?pldnSite=1) 
@@ -83,6 +91,14 @@ This is my running reading list for product, management, and personal growth. Ha
 1. [The Design of Everyday Things](https://www.amazon.com/gp/product/B00E257T6C/)
 1. [Hooked](https://www.amazon.com/gp/product/B00LMGLXTS/)
 1. [Sprint](https://www.amazon.com/gp/product/B010MH1DAQ/)
+
+# Resources
+
+## On Design Sprints
+1. [GV Design Sprint](https://www.gv.com/sprint/)
+1. [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
+1. [Invision Design Sprint 2.0](https://invisionapp.com/inside-design/design-sprint-2/)
+
 
 # Random Quotes 
 1. Always use an ordered list-- that way, you have something to argue about. 
