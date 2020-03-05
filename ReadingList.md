@@ -83,7 +83,6 @@ This is my running reading list for product, management, and personal growth. Ha
 1. [The Design of Everyday Things](https://www.amazon.com/gp/product/B00E257T6C/)
 1. [Hooked](https://www.amazon.com/gp/product/B00LMGLXTS/)
 1. [Sprint](https://www.amazon.com/gp/product/B010MH1DAQ/)
-1. 
 
 # Random Quotes 
 1. Always use an ordered list-- that way, you have something to argue about. 
