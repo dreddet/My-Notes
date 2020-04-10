@@ -51,16 +51,31 @@ This is my running reading list for product, management, and personal growth. Ha
 1. [NNG User Interview Guide](https://www.nngroup.com/articles/user-interviews/) 
 1. [UI/UX Research Methodologies](https://www.nngroup.com/articles/which-ux-research-methods/) 
 
+## On Data/Analytics
+1. [Product Metrics](https://medium.com/product-breakdown/product-management-analytics-what-metrics-should-you-be-measuring-241609b1950d)
+1. [Pirate Metrics](https://medium.com/@ms.mbalke/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b)
+
 ## On Strategy
 1. [Elements of Value Framework](https://media.bain.com/elements-of-value/#)
 1. [Marty on Product Strategy](https://svpg.com/insights/product/strategy/) 
+1. [The Amazon 6 Pager](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909)
 
 ## On Product
 1. [Establishing Product Principles](https://www.intercom.com/blog/podcasts/intercom-on-product-ep04/) 
 1. [Product as a Founder](https://firstround.com/review/after-15-years-as-a-product-leader-ceo-and-now-vc-heres-the-advice-i-always-share-with-future-founders/) 
+1. [Product Roadmapping](https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb)
+1. [Product First Principles](https://blackboxofpm.com/the-first-principles-of-product-management-ea0e2f2a018c)
+
+## On Management
+1. [Personal .readme](https://medium.com/hackernoon/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+
+## On Interviews
+1. [Great PM Interview Questions](https://medium.com/@redheadjessica/questions-you-must-ask-your-interviewers-in-a-product-manager-interview-709faf3bd400)
 
 ## On Agile/SCRUM/Lean
 1. [Agile Manifesto](https://agilemanifesto.org/principles.html)
+
+## On Engineering
 
 # Books
 ## On Management
@@ -68,6 +83,7 @@ This is my running reading list for product, management, and personal growth. Ha
 1. [Phoenix Project](https://smile.amazon.com/Phoenix-Project-Helping-Business-Anniversary/dp/B00VATFAMI?pldnSite=1) 
 1. [Crucial Conversations](https://smile.amazon.com/Crucial-Conversations-Talking-Stakes-Edition/dp/0071771328)
 1. [Getting to Yes](https://www.amazon.com/gp/product/B0051SDM5Q) 
+1. [Trillion Dollar Coach](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/00628392680)
 
 ## On Strategy & Planning
 1. [Crossing the Chasm](https://smile.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/)
@@ -104,6 +120,8 @@ This is my running reading list for product, management, and personal growth. Ha
 
 ## On Slack
 1. [Emoji Repo](https://slackmojis.com/)
+1. [Best Practices](https://medium.com/ragtag-notes/slack-and-security-a62e26055ed0)
+1. [Essential Slack Keyboard Shortcuts](https://lifehacker.com/the-essential-slack-hacks-for-power-users-1827357318)
 
 # Random Quotes 
 1. Always use an ordered list-- that way, you have something to argue about. 
