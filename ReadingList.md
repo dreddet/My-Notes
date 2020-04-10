@@ -99,6 +99,8 @@ This is my running reading list for product, management, and personal growth. Ha
 1. [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 1. [Invision Design Sprint 2.0](https://invisionapp.com/inside-design/design-sprint-2/)
 
+## On Experiments 
+1. [Stat Sig Calculator](https://abtestguide.com/calc/)
 
 # Random Quotes 
 1. Always use an ordered list-- that way, you have something to argue about. 
