@@ -102,6 +102,9 @@ This is my running reading list for product, management, and personal growth. Ha
 ## On Experiments 
 1. [Stat Sig Calculator](https://abtestguide.com/calc/)
 
+## On Slack
+1. [Emoji Repo](https://slackmojis.com/)
+
 # Random Quotes 
 1. Always use an ordered list-- that way, you have something to argue about. 
 1. First person to write it down-- wins.
