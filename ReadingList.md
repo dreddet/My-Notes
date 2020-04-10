@@ -13,7 +13,7 @@ This is my running reading list for product, management, and personal growth. Ha
 1. [The Product Person](https://theproductperson.substack.com/) 
 1. [Farnham Street Newsletter](https://fs.blog/newsletter/) 
 
-# Blogs
+# Blogs/News
 ## On Product
 1. https://svpg.com/articles/
 1. https://www.intercom.com/blog/product-and-design/
@@ -22,16 +22,31 @@ This is my running reading list for product, management, and personal growth. Ha
 1. https://www.mironov.com/
 
 ## On Marketing
+1. https://blog.marketo.com/
+1. https://www.shopify.com/blog
+1. https://neilpatel.com/
+
 ## On UI/UX
 1. https://www.nngroup.com/
+
 ## On Tech
 1. https://stratechery.com/
 1. https://hitenism.com/
+1. https://www.technologyreview.com/
+1. https://www.wired.com/
+1. https://hackernoon.com/
+1. https://arstechnica.com/
+1. https://futurism.com/
+1. https://www.vox.com/recode
+1. https://www.zdnet.com/
+1. https://www.theverge.com/
+1. https://www.producthunt.com/
 
 ## On Personal Growth
 1. https://fs.blog/blog/
 
 # Podcasts
+TBD
 
 # Articles
 ## On Accessibility
