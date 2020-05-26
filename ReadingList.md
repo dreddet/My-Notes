@@ -44,6 +44,7 @@ This is my running reading list for product, management, and personal growth. Ha
 
 ## On Personal Growth
 1. https://fs.blog/blog/
+1. https://untools.co/
 
 # Podcasts
 TBD
